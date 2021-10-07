@@ -29,6 +29,8 @@
 
   - [Wi-Fi Loader](Loader/wifi-loader)
 
+  - [Skeleton Loader](Loader/Skeleton-loader)
+
 -   [Buttons](Buttons)
 
   - [Border Animation Button](border-animation-button)
